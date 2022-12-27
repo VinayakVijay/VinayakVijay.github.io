@@ -10,7 +10,7 @@ locale                   : "New Delhi, India"
 title                    : "Vinayak"
 title_separator          : "-"
 name                     : &name "Vinayak"
-description              : &description "science & badminton"
+description              : &description "Graduate student, Dept. of Applied Mechanics, Indian Institute of Technology, Delhi"
 url                      : https://vinayakvijay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vinayakvijay/vinayakvijay.github.io"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Vinayak"
-  avatar           : "profile.png"
-  bio              : "This is me"
+  avatar           : "photo_vinayak.png"
+  bio              : "Graduate student, Dept. of Applied Mechanics, Indian Institute of Technology, Delhi"
   location         : "New Delhi"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=mu1dyyMAAAAJ&hl=en"
+  email            : "amz218561@iitd.ac.in"
+  researchgate     :  "https://www.researchgate.net/profile/Vinayak-Vinayak-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,17 +99,17 @@ author:
   github           : "vinayakvijay"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/vinayak-vijay-a4413368/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "imomnipresent"
   vine             :
   weibo            :
   xing             :
