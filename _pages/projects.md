@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Projects"
+title: "Research"
 permalink: /projects/
 author_profile: true
 ---
-Hi this is my first project
+Hi this page describes the research topics that interest me.
 
